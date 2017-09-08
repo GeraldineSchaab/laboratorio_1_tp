@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1504836912 source:e:\calculadora2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504745634 source:e:\calculadora2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504565102 e:\calculadora2\funciones.c
+
+1504837084 e:\calculadora2\funciones.h
+
